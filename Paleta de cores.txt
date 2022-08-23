@@ -1,0 +1,6 @@
+CORES A SEREM ULTILIZADAS NO PRIMEIRO PROJETO INDIVIDUAL EM REACT(PAGINA DE LOGIN)
+
+.color1 { #2d2d29 }; cinza
+.color2 { #215a6d }; azul acinzentado
+.color3 { #3ca2a2 }; azul mais claro
+.color5 { #dfece6 }; quase branco
