@@ -1,0 +1,22 @@
+.princ{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: none;
+}
+.button{
+    border: none;
+    color: #2d2d29;
+    background-color: #3ca2a2;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    border-radius: 2em;
+    height: 2em;
+    transition: 0.5s;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #ffbb00;
+    border: 3px solid #dfece6;
+}

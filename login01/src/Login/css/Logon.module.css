@@ -1,0 +1,23 @@
+.princ{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+.princ p{
+    color:rgb(245, 245, 220);
+}
+.input{
+    width: 21em;
+    flex-wrap: wrap;
+    padding: 0.8em;
+    display: flex;
+    align-items: center;
+}
+.login{
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.submit{
+    margin-top: 0.5em;
+    margin-bottom: 3em;
+}

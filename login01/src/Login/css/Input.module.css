@@ -1,0 +1,11 @@
+.label{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.input{
+    background-color: #455353;
+    height: 1.2em;
+    width: 100%;
+    border-radius: 0.78em;
+    color: #dfece6;
+}

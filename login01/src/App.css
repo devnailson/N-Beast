@@ -1,0 +1,11 @@
+body{
+  background-color: #2d2d29;
+  color: #dfece6;
+}
+.conteudoPrinc{
+  min-height: 28em;
+}
+body a{
+  color: #3ca2a2;
+  text-decoration: none;
+}

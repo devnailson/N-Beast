@@ -1,0 +1,13 @@
+.princ{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #363f7f;
+    border-radius: 0 0 3% 3%;
+}
+.logo{
+    background-color: rgb(203, 203, 203);
+    border-radius: 5%;
+}
