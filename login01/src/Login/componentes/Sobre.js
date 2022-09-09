@@ -4,13 +4,13 @@ function Sobre(){
     return(
         <div className={style.princ}>
             <p>
-                Bem, essa foi, para ser sincero, meu "primeiro web-site"!
+                Bem, esse foi, para ser sincero, meu "primeiro web-site"!
                 Daqui para frente quero apenas evoluir minhas habilidades... Agradeço
-                primeiramente a Deus, e a mim, pois só nós dois sabemos do quanto é díficil.
+                primeiramente a Deus, e a mim, pois só nós dois sabemos o quanto é díficil.
                 Obrigado por nunca ter me deixado desistir, meu Deus &#60;3
             </p>
             <p>
-                Talvez um dia lerei isso novamente, caso eu não exclua todo o porjeto rsrsrrs,
+                Talvez um dia lerei isso novamente, caso eu não exclua todo o projeto rsrsrrs,
                 mas bem, sou grato a minha familia, que apesar das desavenças, sei que terão orgulho de mim,
                 talvez não entendam nada disso ainda, mas saibam que é por vocês também!
             </p>
